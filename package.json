@@ -3,7 +3,7 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://PavloPSh.github.io/team-11-project",
+  "homepage": "https://Nataliya1508.github.io/team-11-project",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /team-11-project/"
